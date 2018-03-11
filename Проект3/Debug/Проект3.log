@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\lisa\documents\visual studio 2015\projects\проект3\проект3\source.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\lisa\documents\visual studio 2015\projects\проект3\проект3\source.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\lisa\documents\visual studio 2015\projects\проект3\проект3\source.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\lisa\documents\visual studio 2015\projects\проект3\проект3\source.cpp(352): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Проект3.vcxproj -> C:\Users\Lisa\Documents\Visual Studio 2015\Projects\Проект3\Debug\Проект3.exe
+  Проект3.vcxproj -> C:\Users\Lisa\Documents\Visual Studio 2015\Projects\Проект3\Debug\Проект3.pdb (Partial PDB)
